@@ -1,5 +1,4 @@
 import boto3
-from datetime import datetime
 from datetime import datetime, timedelta
 
 # Créer une session AWS
